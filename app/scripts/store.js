@@ -1,0 +1,1 @@
+Illbringthedonuts.ApplicationAdapter = DS.FixtureAdapter;
